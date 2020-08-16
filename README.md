@@ -1,6 +1,7 @@
 # Sudoku-Game
 A sudoku to workout your brain
-Life is like a sudoku, if you don't know why you have choosen that number, at the end it will be a mess, you can erase un sudoku but not in real life
+
+Life is like a sudoku, if you don't know why you have choosen that number, at the end it will be a mess, you can erase in sudoku but not in real life!
 
 And for all the coders out there this is a sudoku solver which uses the backtracking algorithm. I have used PyGame for the GUI.
 
